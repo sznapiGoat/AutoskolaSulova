@@ -1,0 +1,195 @@
+{
+  "_meta": {
+    "scrapedAt": "2026-05-28T16:44:01.653Z",
+    "sourceUrl": "https://autoskolasulova9.webnode.cz/",
+    "pagesScraped": ["homepage", "o-nas", "cenik", "kontakt", "fotogalerie", "prihlaska"],
+    "note": "Zero hallucination policy — null = not found on source. All text verbatim from site."
+  },
+
+  "business": {
+    "name": "Autoškola Barbora Šůlová",
+    "legalName": null,
+    "tagline": null,
+    "ico": null,
+    "dic": null,
+    "founded": null,
+    "copyright": "© 2017 Worlds Collide. Všechna práva vyhrazena."
+  },
+
+  "contact": {
+    "phones": ["+420721619870"],
+    "phoneFormatted": "+420 721 619 870",
+    "emails": ["bara.su@seznam.cz"],
+    "address": "Pod Kostelem 117, Rokycany, 337 01",
+    "addressNote": "Učebna — druhé patro",
+    "region": "Rokycany (Plzeňský kraj)",
+    "gps": null,
+    "openingHours": "v pracovní dny od 08:00 do 18:00",
+    "openingHoursNote": "Výuku i výcvik lze naplánovat také na víkend, případně i o svátcích.",
+    "googleMapsEmbed": "https://web-2022.webnode.it/widgets/googlemaps/?z=15&a=Pod+Kostelem+117%2C+Rokycany%2C+33701"
+  },
+
+  "social": {
+    "facebook": "https://www.facebook.com/Auto%C5%A1kola-Barbora-%C5%A0%C5%AFlov%C3%A1-312471922534607/",
+    "facebookDecoded": "https://www.facebook.com/Autoškola-Barbora-Šůlová-312471922534607/",
+    "instagram": null,
+    "youtube": null
+  },
+
+  "navigation": [
+    { "label": "O NÁS",      "href": "https://autoskolasulova9.webnode.cz/o-nas/" },
+    { "label": "CENÍK",      "href": "https://autoskolasulova9.webnode.cz/diskografie/" },
+    { "label": "KONTAKT",    "href": "https://autoskolasulova9.webnode.cz/kontakt/" },
+    { "label": "FOTOGALERIE","href": "https://autoskolasulova9.webnode.cz/fotogalerie/" },
+    { "label": "PŘIHLÁŠKA",  "href": "https://autoskolasulova9.webnode.cz/prihlaska/" }
+  ],
+
+  "services": [
+    {
+      "category": "B",
+      "name": "Skupina B — osobní automobil",
+      "description": "Výcvik na skupinu B (osobní automobil). Výcvik probíhá ve vozidle Škoda Fabia (diesel) combi a Suzuki Swift (natural 95). Žáci se vyzkouší na obou typech vozidel.",
+      "price": 19000,
+      "priceCurrency": "CZK",
+      "priceFormatted": "19 000 Kč",
+      "priceNote": "Platnost od 1. 4. 2026. Cena lze rozdělit na splátky. Maximálně na 3.",
+      "vehicles": ["Škoda Fabia diesel combi", "Suzuki Swift natural 95"]
+    },
+    {
+      "category": "B — kondiční jízdy",
+      "name": "Kondiční jízdy skupiny B",
+      "description": "Kondiční jízdy pro řidiče skupiny B.",
+      "price": null,
+      "priceFormatted": null,
+      "priceNote": "Cena neuvedena na webu."
+    }
+  ],
+
+  "additionalOfferings": [
+    {
+      "name": "Dárkové poukazy",
+      "description": "Možnost zakoupení dárkových poukazů pro Vaše blízké. Dárkový poukaz přizpůsobíme k Vámi zvolené příležitosti, například k narozeninám, Vánocům apod."
+    },
+    {
+      "name": "Výuka o víkendech a svátcích",
+      "description": "Výuku i výcvik lze naplánovat také na víkend, případně i o svátcích."
+    },
+    {
+      "name": "Svoz žáků",
+      "description": "Vzhledem k problémům s dojížděním se žáci mohou sami odvézt do i od místa bydliště."
+    }
+  ],
+
+  "pricing": {
+    "skupinaB": {
+      "total": "19 000 Kč",
+      "validFrom": "1. 4. 2026",
+      "installments": "Cena lze rozdělit na splátky. Maximálně na 3."
+    },
+    "stornoPoplatok": {
+      "amount": "500 Kč",
+      "condition": "Žák se nedostaví bez omluvy 24 hodin předem na jízdu"
+    }
+  },
+
+  "instructors": [
+    {
+      "name": "Barbora Šůlová",
+      "role": "Instruktorka / majitelka",
+      "bio": null,
+      "photo": "/images/zakyne-s-instruktorkou.jpg",
+      "photoNote": "Foto ze stránky fotogalerie — alt text: 'Žákyně s instruktorkou'. Instruktorka je Barbora Šůlová."
+    }
+  ],
+
+  "testimonials": null,
+
+  "certifications": null,
+
+  "applicationProcess": {
+    "description": "Žádost nutno vytisknout oboustranně na stránku A4.",
+    "documents": [
+      { "name": "Žádost o řidičský průkaz", "file": "Zadost.pdf" },
+      { "name": "Lékařský posudek", "file": "lékař.pdf" }
+    ]
+  },
+
+  "gallery": {
+    "intro": "Respektuji žáky autoškoly, kteří mi nedali písemný souhlas s uveřejněním jejich fotografie a tudíž jsou zde jen žáci, kteří mi podepsali souhlas s uvěřejněním jejich fotografie a já jim tímhle děkuji!",
+    "vehicleAndBuilding": [
+      { "alt": "Budova výuky",                          "localPath": "/images/budova-vyuky.jpg" },
+      { "alt": "Výcvikové vozidlo",                      "localPath": "/images/vycvikove-vozidlo.jpg" },
+      { "alt": "výcvikové vozidlo Suzuki Swift",         "localPath": "/images/vycvikove-vozidlo-suzuki-swift.jpg" }
+    ],
+    "instructorWithStudent": [
+      { "alt": "Žákyně s instruktorkou",                 "localPath": "/images/zakyne-s-instruktorkou.jpg" }
+    ],
+    "students": [
+      { "alt": "Žákyně Aneta",         "localPath": "/images/zakyne-aneta.jpg" },
+      { "alt": "Žákyně Barbora",        "localPath": "/images/zakyne-barbora.jpg" },
+      { "alt": "Žákyně Kamila",         "localPath": "/images/zakyne-kamila.jpg" },
+      { "alt": "Žákyně Nikola",         "localPath": "/images/zakyne-nikola.jpg" },
+      { "alt": "Žákyně Marie",          "localPath": "/images/zakyne-marie.jpg" },
+      { "alt": "Žák David",             "localPath": "/images/zak-david.jpg" },
+      { "alt": "Žákyně Sára",           "localPath": "/images/zakyne-sara.jpg" },
+      { "alt": "Žákyně Johana",         "localPath": "/images/zakyne-johana.jpg" },
+      { "alt": "Žákyně Oleksandra",     "localPath": "/images/zakyne-oleksandra.jpg" },
+      { "alt": "Žákyně Tereza",         "localPath": "/images/zakyne-tereza.jpg" },
+      { "alt": "Žákyně Markéta Sofia",  "localPath": "/images/zakyne-marketa-sofia.jpg" },
+      { "alt": "Žák Jiří",              "localPath": "/images/zak-jiri.jpg" },
+      { "alt": "Žákyně Kateřina",       "localPath": "/images/zakyne-katerina.jpg" },
+      { "alt": "Žák Tomáš",             "localPath": "/images/zak-tomas.jpg" },
+      { "alt": "Žák Martin",            "localPath": "/images/zak-martin.jpg" },
+      { "alt": "Žákyně Karolína",       "localPath": "/images/zakyne-karolina.jpg" },
+      { "alt": "Žákyně Klára",          "localPath": "/images/zakyne-klara.jpg" },
+      { "alt": "Žákyně Lucie",          "localPath": "/images/zakyne-lucie.jpg" },
+      { "alt": "Žák Pavel",             "localPath": "/images/zak-pavel.jpg" },
+      { "alt": "Žák Karel",             "localPath": "/images/zak-karel.jpg" },
+      { "alt": "Žák Marek",             "localPath": "/images/zak-marek.jpg" },
+      { "alt": "Žák Vladimír",          "localPath": "/images/zak-vladimir.jpg" },
+      { "alt": "Žákyně Eva",            "localPath": "/images/zakyne-eva.jpg" },
+      { "alt": "Žák Milan",             "localPath": "/images/zak-milan.jpg" },
+      { "alt": "Žákyně Lucie",          "localPath": "/images/zakyne-lucie.jpeg" },
+      { "alt": "Žák Matěj",             "localPath": "/images/zak-matej.jpg" },
+      { "alt": "Žák Lukáš",             "localPath": "/images/zak-lukas.jpeg" },
+      { "alt": "Žák Jakub",             "localPath": "/images/zak-jakub.jpeg" },
+      { "alt": "Žák Martin",            "localPath": "/images/zak-martin.jpeg" },
+      { "alt": "Žákyně Eliška",         "localPath": "/images/zakyne-eliska.jpg" },
+      { "alt": "Žákyně Magdaléna",      "localPath": "/images/zakyne-magdalena.jpg" },
+      { "alt": "Žákyně Diana",          "localPath": "/images/zakyne-diana.jpg" },
+      { "alt": "Žákyně Michaela",       "localPath": "/images/zakyne-michaela.jpg" },
+      { "alt": "Žák Jaroslav",          "localPath": "/images/zak-jaroslav.jpg" },
+      { "alt": "Žákyně Ludmila",        "localPath": "/images/zakyne-ludmila.jpg" },
+      { "alt": "Žák Tomáš",             "localPath": "/images/zak-tomas.jpg" },
+      { "alt": "Žákyně Olga",           "localPath": "/images/zakyne-olga.jpg" },
+      { "alt": "Žákyně Anna",           "localPath": "/images/zakyne-anna.jpg" }
+    ]
+  },
+
+  "rawPages": {
+    "homepage": {
+      "url": "https://autoskolasulova9.webnode.cz/",
+      "fullText": "Autoškola Barbora Šůlová\nO NÁS\nCENÍK\nKONTAKT\nFOTOGALERIE\nPŘIHLÁŠKA"
+    },
+    "o-nas": {
+      "url": "https://autoskolasulova9.webnode.cz/o-nas/",
+      "fullText": "Vítáme Vás na stránkách autoškoly Barbory Šůlové.\n\nProvádíme výuku a výcvik na skupinu B (osobní automobil). Výcvik probíhá ve vozidle škoda Fabia (diesel) combi, tím pádem se naučíte couvat i celkově parkovat s delším vozidlem v naftě a dále v Suzuki Swift (natural 95). To znamená, že se vyzkoušíte oba druhy vozidel. Učebnu naleznete na adrese Pod Kostelem 117, Rokycany 337 01, druhé patro. Výuku i výcvik lze naplánovat také na víkend, případně i o svátcích. Vzhledem k problémům s dojížděním se žáci mohou sami odvézt do i od místa bydliště. Také nabízíme kondiční jízdy sk. B.\n\nMožnost zakoupení dárkových poukazů pro Vaše blízké. Dárkový poukaz přizpůsobíme k Vámi zvolené příležitosti, například k narozeninám, Vánocům apod.\n\nNaším cílem je Vás připravit k úspěšnému složení závěrečné zkoušky tak, aby Váš vstup do silničního provozu byl co nejvíce bezpečný."
+    },
+    "cenik": {
+      "url": "https://autoskolasulova9.webnode.cz/diskografie/",
+      "fullText": "Cena za skupinu B (osobní automobil) je 19 000 Kč. Platnost od 1. 4. 2026.\n\nCena lze rozdělit na splátky. Maximálně na 3.\n\nStorno poplatky\n\nŽák se nedostaví bez omluvy 24 hodin předem na jízdu - 500,- Kč"
+    },
+    "kontakt": {
+      "url": "https://autoskolasulova9.webnode.cz/kontakt/",
+      "fullText": "Autoškola Barbora Šůlová\n\nPod Kostelem 117, Rokycany, 337 01\n\n+420 721 619 870 v pracovní dny od 08:00 do 18:00\nbara.su@seznam.cz\nhttps://www.facebook.com/Autoškola-Barbora-Šůlová-312471922534607/"
+    },
+    "fotogalerie": {
+      "url": "https://autoskolasulova9.webnode.cz/fotogalerie/",
+      "intro": "Respektuji žáky autoškoly, kteří mi nedali písemný souhlas s uveřejněním jejich fotografie a tudíž jsou zde jen žáci, kteří mi podepsali souhlas s uvěřejněním jejich fotografie a já jim tímhle děkuji!"
+    },
+    "prihlaska": {
+      "url": "https://autoskolasulova9.webnode.cz/prihlaska/",
+      "fullText": "Žádost nutno vytisknout oboustranně na stránku A4.\n\nSTÁHNOUT Zadost.pdf\n\nLékařský posudek\n\nSTÁHNOUT lékař.pdf"
+    }
+  }
+}
