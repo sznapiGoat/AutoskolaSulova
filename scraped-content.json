@@ -102,7 +102,25 @@
     }
   ],
 
-  "testimonials": null,
+  "overallRating": { "score": 4.4, "count": 42, "source": "Google Maps" },
+
+  "testimonials": [
+    { "author": "Daniel Vokáč",       "stars": 5, "date": "před 4 měsíci",   "text": "Stručně řečeno, během celého výcviku jsem nepocítil nervozitu, neuvěřitelně pohodlná atmosféra a přístup. Paní Šůlová je naprostý zlatíčko ale zároveň je velice poctivá, dbá na pravidla která úplně přesně a jasně vysvětlí, není to jen učitelka, je i taxikář a přítel, zaveze vás nebo pro vás přijede kamkoliv v okolí a během jízdy vám vypráví vtipné historky. A nutno podotknout, že takhle super autoškola má neporovnatelné ceny s jinými. Určitě doporučuji, jsem si jistý že překoná vaše očekávání. Jezdíte plně vybaveným autem s kamerou, senzory a asistentem rozjezdu do kopce." },
+    { "author": "Natálie Roučková",   "stars": 5, "date": "před 6 měsíci",   "text": "S autoškolou jsem byla maximálně spokojená. Lekce probíhaly v pohodové atmosféře, instruktorka měla skvělý přístup a vždycky měla pochopení i pro chyby. Skvělá příprava na zkoušky. Mohu jen doporučit všem, kdo hledají kvalitní a lidský přístup. Moc děkuji!!" },
+    { "author": "Bárbra Sommerová",   "stars": 5, "date": "před rokem",       "text": "Baruško, ještě jednou děkuji za tvůj přístup. Na zkoušky jsem byla připravena parádně, vyzkoušeli jsme si všechny záludnosti silnic, díky Tobě budu jezdit s jistotou. Moc Ti děkuji." },
+    { "author": "František Hanzlík",  "stars": 5, "date": "před 2 lety",      "text": "Doporučuji, za mne nejlepší autoškola v Rokycanech. Slečna Šůlová je velmi milá a ochotná a připraví vás na všechny záludnosti při závěrečné jízdě, vše vysvětlí a poradí." },
+    { "author": "Daniela Hánělová",   "stars": 5, "date": "před 3 lety",      "text": "Paní Šůlová je úžasná. Když něco pokazíte, nebude na Vás křičet. V klidu Vám vysvětlí co máte udělat. Je s ní sranda, je velmi milá, můžete si s ní povídat o čemkoliv." },
+    { "author": "Alla Firsova",       "stars": 5, "date": "před 2 lety",      "text": "Za mě nejlepší autoškola! Nemohu si vynachválit přátelský a milý přístup. Bára má obrovský smysl pro humor a určitě řídit naučí. Ještě jednou děkuji!" },
+    { "author": "Karolina Šlajsová",  "stars": 5, "date": "před 3 lety",      "text": "Jen a jen doporučuji! ÚŽASNÁ učitelka, která vás opravdu připraví a skvěle naučí a i se u toho zasmějete." },
+    { "author": "Adéla Zábranská",    "stars": 5, "date": "před 2 lety",      "text": "Moc doporučuji. V této autoškole je velmi přátelský přístup a hodně toho naučí. Především je tam kopec srandy. Ještě jednou moc děkuji." },
+    { "author": "Adam Marien Hrdina", "stars": 5, "date": "před 4 lety",      "text": "Velice příjemná slečna se kterou se rozhodně nebudete nudit. Nejen, že vás perfektně připraví a pomůže vám se vším s čím si nebudete vědět rady, zároveň vás určitě rozesměje." },
+    { "author": "Pavlína Pham",       "stars": 5, "date": "před 2 lety",      "text": "Je to skvělá učitelka. Pomohla mi překonat stres z řízení. Řízení s ní vždy bylo sranda. Na jízdy s ní jsem se vždycky těšila." },
+    { "author": "Vítek Císař",        "stars": 5, "date": "před 8 měsíci",    "text": "Výborná autoškola, dobrá komunikace, dovedla mě k úspěšnému splnění závěrečných zkoušek!" },
+    { "author": "Lydie Pusina",       "stars": 5, "date": "před 2 lety",      "text": "Za mě jen doporučuji, hned na poprvé jsem udělala řidičské oprávnění." },
+    { "author": "Patrik Patasek",     "stars": 5, "date": "před 2 lety",      "text": "Barča je skvělá učitelka. Naučí a připraví vás na vše, jak na jízdy tak i na testy. Vřele doporučuji." },
+    { "author": "Jan Opatrný",        "stars": 5, "date": "před 3 lety",      "text": "Chtěl bych poděkovat a zároveň doporučit skvělou autoškolu, která vás připraví na většinu situací." },
+    { "author": "Roman Gregor",       "stars": 5, "date": "před 3 lety",      "text": "Přístup naprosto skvělý, hrozně moc děkuji! Autoškolu jsem si hrozně užil." }
+  ],
 
   "certifications": null,
 
